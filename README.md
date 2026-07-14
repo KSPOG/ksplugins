@@ -7,3 +7,5 @@ Official static landing page for KSP Plugins.
 - Support: kspsupplugins@hotmail.com
 
 The GitHub Actions workflow publishes the repository root to GitHub Pages.
+
+Deployment status: GitHub Pages workflow enabled.
